@@ -1,4 +1,4 @@
-# Semaforo Teste
+# Semaforo Thread
 
 Seguindo com os estudos, realizei este pequeno projeto utilizando Linguagem Java, com os conceitos de POO e Thread. Utilizado IDE Eclipse. Onde há uma SIMULAÇÃO DE UM SEMAFORO.
 
